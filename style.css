@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(1, 88, 114);
+    color: white;
+}
+
+
+.container{
+   max-width: 60%;
+   margin: 0 auto;
+   margin-top: 20px;
+   padding: 20px;
+   text-align: center;
+   background-color:rgb(4, 74, 96);
+   box-shadow: 0 2px 4px rgb(44, 44, 44);
+}
+
+h1{
+    color: white;
+}
+
+input[type='text']{
+    padding: 8px;
+    font-size: 16px;
+    width: 70%;
+}
+
+button{
+    padding: 9px;
+    width: 20%;
+    background-color: rgb(84, 131, 240);
+    color: white;
+    border: none;
+    font-size: 16px;
+}
